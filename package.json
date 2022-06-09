@@ -1,0 +1,23 @@
+{
+  "name": "javascript-practico",
+  "version": "1.0.0",
+  "description": "Estos son todos los ejercicios del curso practico de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giorgio1708/curso-practico-javascript.git"
+  },
+  "keywords": [
+    "JS",
+    "javascript"
+  ],
+  "author": "Jorge Giraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giorgio1708/curso-practico-javascript/issues"
+  },
+  "homepage": "https://github.com/Giorgio1708/curso-practico-javascript#readme"
+}
